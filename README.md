@@ -19,7 +19,7 @@ The design and functionality of this project were inspired by a simple, intuitiv
 ### Final Result:
 
 The final implementation is live and accessible via GitHub Pages:
-[Access Color Picker](<GitHub Pages link>)
+[Access Color Picker](https://mabelrincon.github.io/javascript-color-picker/)
 
 ### Features:
 
