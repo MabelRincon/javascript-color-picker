@@ -14,7 +14,7 @@ This is a simple color picker that allows you to choose any color and display th
 The design and functionality of this project were inspired by a simple, intuitive color picker mockup. The mockup is a user-friendly interface that allows you to pick colors and view their RGB, HSL, and Hex values, with the added feature of adjusting font color for better readability.
 <figure>
 <img src="img/mockup-color-picker.png" alt="mockup-color-picker" style="width: 25%;"/>
-<figcaption>Mockup provided</figcaption>
+<figcaption><sup>Mockup provided</sup></figcaption>
 </figure>
 
 ## Final Result:
@@ -26,17 +26,17 @@ The design and functionality of this project were inspired by a simple, intuitiv
 
 <figure>
 <img src="img/chrome.png" alt="Google-Chrome" style="width: 25%;">
-<figcaption>Chrome's color tools offer a different approach. Although you can't directly pick colors from your screen in his Linux version, you can effortlessly convert between RGB, HSL, and Hex color formats.</figcaption>
+<figcaption><sup>Chrome's color tools offer a different approach. Although you can't directly pick colors from your screen in his Linux version, you can effortlessly convert between RGB, HSL, and Hex color formats.</sup></figcaption>
 </figure>
 
 ### Mozilla Firefox
 <figure>
-<div style="display: flex; justify-content: space-between;"> 
+<div style="display: flex; justify-content: space-between;">
   <img src="img/firefox-main.png" alt="Mozilla Firefox" style="width: 25%;"/>
  
  <img src="img/firefox-custom.png" alt="Mozilla Firefox" style="width: 25%;"/>
 </div>
-<figcaption>Want to grab a color from anywhere on your screen? Click the + button below Custom, pick the color picker, and add it to your palette! But you can´t convert the color format</figcaption>
+<figcaption><sup>Want to grab a color from anywhere on your screen? Click the + button below Custom, pick the color picker, and add it to your palette! But you can´t convert the color format</sup></figcaption>
 </figure>
 
 - The final implementation is live and accessible via **GitHub Pages**:
