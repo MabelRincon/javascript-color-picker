@@ -13,7 +13,7 @@ This is a simple color picker that allows you to choose any color and display th
 
 The design and functionality of this project were inspired by a simple, intuitive color picker mockup. The mockup is a user-friendly interface that allows you to pick colors and view their RGB, HSL, and Hex values, with the added feature of adjusting font color for better readability.
 <figure>
-<img src="img/mockup-color-picker.png" alt="mockup-color-picker" style="width: 33%"/>
+<img src="img/mockup-color-picker.png" alt="mockup-color-picker" style="width: 25%;"/>
 <figcaption>Mockup provided</figcaption>
 </figure>
 
@@ -25,28 +25,24 @@ The design and functionality of this project were inspired by a simple, intuitiv
 ### Google Chrome
 
 <figure>
-<img src="img/chrome.png" alt="Google-Chrome" style=width: 33%>
+<img src="img/chrome.png" alt="Google-Chrome" style="width: 25%;">
 <figcaption>Chrome's color tools offer a different approach. Although you can't directly pick colors from your screen in his Linux version, you can effortlessly convert between RGB, HSL, and Hex color formats.</figcaption>
 </figure>
 
 ### Mozilla Firefox
-
-<div style="display: flex; justify-content: space-between;">
- <figure>
-  <img src="img/firefox-main.png" alt="Mozilla Firefox">
-  <figcaption>Main menu view in Mozilla Firefox.</figcaption>
-</figure>
-
 <figure>
-  <img src="img/firefox-custom.png" alt="Mozilla Firefox">
-  <figcaption>Want to grab a color from anywhere on your screen? Click the + button below Custom, pick the color picker, and add it to your palette! But you can't change color formats.</figcaption>
-</figure>
+<div style="display: flex; justify-content: space-between;"> 
+  <img src="img/firefox-main.png" alt="Mozilla Firefox" style="width: 25%;"/>
+ 
+ <img src="img/firefox-custom.png" alt="Mozilla Firefox" style="width: 25%;"/>
 </div>
+<figcaption>Want to grab a color from anywhere on your screen? Click the + button below Custom, pick the color picker, and add it to your palette! But you can´t convert the color format</figcaption>
+</figure>
 
-The final implementation is live and accessible via GitHub Pages:
+- The final implementation is live and accessible via **GitHub Pages**:
 [Access Color Picker](https://mabelrincon.github.io/javascript-color-picker/)
 
-### Features:
+## Features:
 
 - **Color Initialization:** The color picker initializes with a default color of `#000000` (black) or `rgb(0, 0, 0)`.
 - **Multiple Color Formats (available only in Google Chrome):** The color is set by default in **RGB** format, but you can easily switch between RGB, HSL, and Hex formats using the color selector.
@@ -56,7 +52,7 @@ The final implementation is live and accessible via GitHub Pages:
 - **Responsive Design:** The layout uses relative units (`rem`) to ensure that it adjusts to various screen sizes.
 - **Stylish Design:** The color display and color input have subtle shadow effects to give the interface a sleek, modern look.
 
-### Feedback and Contributions:
+## Feedback and Contributions:
 
 Feedback is welcome! Feel free to open issues or submit pull requests to suggest improvements or report any bugs.
 
